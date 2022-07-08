@@ -10,4 +10,4 @@ Návrh sochy v podobě organogramu pro výstavu *Sto let Rozhlasu* v Národním 
 - Vertikální umístěné podle míry distribuce vysílání stanice: regionální, celostátní, celostvětové (digitální).
 - Co uzel, to stanice a příslušná barva.
 
-MUsíme vymyslet projekci z 8-dimenzionální
+Musíme vymyslet projekci z 8-dimenzionálního prostoru do 3D.
